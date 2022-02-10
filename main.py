@@ -7,8 +7,8 @@ from geopy.distance import geodesic as gd
 
 
 def main():
-    access_key = 'AKIARCYSPMAXTOJ6Z7ZU'
-    secret_key = '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'
+    access_key =
+    secret_key =
 
     servers = {'us-east-1': ['ami-0a8b4cd432b1c3063', 'sg-024f8a033f5d4499e', (38.8051, -77.0470)],
                'us-east-2': ['ami-0231217be14a6f3ba', 'sg-039cdf5305a9721de', (40.4173, -82.9071)],
